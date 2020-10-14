@@ -53,5 +53,3 @@ Testing collection of sample files.
 | [ZIP_10MB.zip](https://raw.githubusercontent.com/cznec/file-samples-collection/main/other/zip/ZIP_10MB.zip)    |
 
 All files are also available here https://file-examples.com/
-
-[qwe](https://raw.githubusercontent.com/cznec/file-samples-collection/main/audio/mp3/MP3_1MG.mp3)](https://raw.githubusercontent.com/cznec/file-samples-collection/main/audio/mp3/qwe](https://raw.githubusercontent.com/cznec/file-samples-collection/main/audio/mp3/MP3_1MG.mp3))
